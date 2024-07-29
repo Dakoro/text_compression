@@ -160,3 +160,12 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+data/*zip
+cmix-master
+nncp_v2-2021-02-06-1
+nncp-2024-06-05
+enwik9-preproc
+data/ready4cmix
+data/enwik8
+data/enwik9
